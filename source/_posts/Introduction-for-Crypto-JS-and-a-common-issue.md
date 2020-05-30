@@ -29,7 +29,7 @@ CryptoJS.MD5("test");
 
 ## PBKDF2
 
-`可单独引用 pbkdf2.js` can be referenced separately.
+`pbkdf2.js` can be referenced separately.
 
 {% codeblock lang:javascript %}
 // official examples
