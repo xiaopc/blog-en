@@ -8,6 +8,9 @@ permalink: links/
 
 {% raw %}
 <div class="link-list">
+    <a href="https://www.vultr.com/?ref=8597020-6G" target="_blank" rel="noopener">
+        Vultr<br><span>$100 Free Trial</span>
+    </a>
     <a href="http://www.dynadot.com/?s9T6ugy6e6C647c" target="_blank" rel="noopener">
         DynaDot<br><span>Buy $9.99 Get $5 Bonus</span>
     </a>
