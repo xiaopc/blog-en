@@ -17,7 +17,10 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-23646862-7
+ga:
+
+# google-tag-manager
+gtm: GTM-TZJ35RJ
 
 # Copyright Infomation
 startyear: 2008
