@@ -3,7 +3,7 @@ name: Build and Update Github Pages
 on: 
   push:
     branches:
-      - 'master'
+      - 'source'
   workflow_dispatch:
 
 jobs:
